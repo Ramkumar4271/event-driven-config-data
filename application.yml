@@ -1,0 +1,7 @@
+############ PORT No. ############
+server:
+  port: 8001
+home:
+  message: Hello from config server
+
+ 
